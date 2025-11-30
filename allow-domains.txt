@@ -1,0 +1,5 @@
+init.itunes.apple.com
+radio.itunes.apple.com
+itunes.apple.com
+s.mzstatic.com
+dealabs.digidip.net
